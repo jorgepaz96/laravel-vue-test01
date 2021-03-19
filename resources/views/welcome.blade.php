@@ -68,6 +68,7 @@
             <example-component></example-component>
             
         </div>
-        <script src="{{ asset('js/app.js') }}"></script>
+        <script src="{{ secure_asset('js/app.js') }}"></script>
     </body>
 </html>
+
